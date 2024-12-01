@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1 - Work Items",
+  "Type": "App",
+  "Id": "rfr1WIBcSkevwH3S8scZYA",
+  "Reference": "KG4WmViwOEi3OlXUGHdwpA/rfr1WIBcSkevwH3S8scZYA",
+  "Created": "2024-11-27T08:44:00.6905452Z",
+  "Updated": "2024-11-27T08:44:00.6905452Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

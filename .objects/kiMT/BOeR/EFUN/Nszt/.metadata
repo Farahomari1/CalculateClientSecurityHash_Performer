@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Result for sha1  e6a9f…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NsztmRXy80SS_1V3SVZrPg",
+  "Reference": "KG4WmViwOEi3OlXUGHdwpA/NsztmRXy80SS_1V3SVZrPg",
+  "ParentRef": "KG4WmViwOEi3OlXUGHdwpA/EFUNi3iIy0mMtXV6v6rnqw",
+  "Created": "2024-11-27T09:36:55.9883357Z",
+  "Updated": "2024-11-27T09:36:55.9883357Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
